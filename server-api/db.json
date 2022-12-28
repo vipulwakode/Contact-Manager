@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "name": "Ritul wakode",
+      "email": "ritulwakode143@gmail.com",
+      "id": "3bb81719-654a-4fcb-bc1d-74ffd2b3e14c"
+    },
+    {
+      "name": "vipul",
+      "email": "wakode.vipulr.met19@itbhu.ac.in ",
+      "id": "6026b848-245b-45a0-81a4-f4961ce362a6"
+    },
+    {
+      "name": "Kiran Ingle",
+      "email": "kiraningle123@gmail.com",
+      "id": "df6ad88d-454d-4042-b4d1-f9db7cfac4f9"
+    },
+    {
+      "name": "Ram wakode",
+      "email": "ram123@gmail.com",
+      "id": "ecaec6c0-bcba-43f9-95b9-aa19ca8106cc"
+    }
+  ]
+}
