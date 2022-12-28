@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Final project look like this ![Alt text](/contact/src/images/finalProject.png?raw=true "Title")
+Final project look like this ![Alt text](/contact/src/images/finalProject.png)
 ## Available Scripts
 For Front-end cd into contact directory and 
 run command:
