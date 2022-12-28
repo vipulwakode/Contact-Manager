@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Final project look like this [![final-Project.png](https://i.postimg.cc/SKxSzLVV/final-Project.png)](https://postimg.cc/YvTK5W5m)
 ## Available Scripts
+For installing all required packages
+run command:
+### `npm install`
 For Front-end cd into contact directory and 
 run command:
 ### `npm start`
