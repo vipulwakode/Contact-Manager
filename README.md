@@ -1,11 +1,13 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Final project look like this ![Alt text](/contact/src/images/finalProject.png?raw=true "Title")
 ## Available Scripts
-
-In the project directory, you can run:
-
+For Front-end cd into contact directory and 
+run command:
+### `npm start`
+For Back-end cd into server-api directory and 
+run command:
 ### `npm start`
 
 Runs the app in the development mode.\
